@@ -1,7 +1,8 @@
 # Dlib-opencv-
-小型换脸
+小型换脸  
+需要一个：shape_predictor_68_face_landmarks.dat
 
-运行环境
+运行环境：
 
 windows 10 64位
 
